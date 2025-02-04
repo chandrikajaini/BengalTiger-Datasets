@@ -1,0 +1,11 @@
+Age,Weight,Height,Speed,Claw_Length,Region,Gender,Health_Status,Prey_Success_Rate,Survival_Chance
+11,237,1.08,33.20,10.51,Nepal,Male,Healthy,0.844616224,Medium
+3,200,0.75,41.18,10.75,Assam,Female,Healthy,0.655133243,High
+10,198,1.15,63.25,10.74,Bangladesh,Male,Healthy,0.510130948,Low
+8,135,0.95,63.27,6.55,Sundarbans,Female,Injured,0.724908717,High
+5,195,1.11,50.07,8.97,Nepal,Female,Sick,0.589000193,Low
+19,136,0.86,52.11,6.35,Nepal,Male,Healthy,0.526792554,Low
+14,111,1.15,45.70,9.30,Bangladesh,Female,Healthy,0.723050619,High
+12,212,0.89,40.26,8.65,Sundarbans,Male,Injured,0.449234493,Medium
+5,112,0.71,41.50,11.33,Sundarbans,Female,Healthy,0.498151517,Low
+5,122,1.15,53.54,8.11,Nepal,Female,Sick,0.560671107,High

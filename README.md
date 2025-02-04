@@ -6,7 +6,8 @@ This repository contains two datasets related to Bengal Tigers: one for training
 
 ## Dataset Files
 
-### 1. `bengal_tiger_dataset.csv` (Training Data)
+### 1. `BT_training_dataset.csv` (Training Data)
+Download: https://drive.google.com/file/d/1i__wEpVlZftdpFNwTZbGhuTXjjAR0odm/view?usp=drive_link
 - **Records:** 35
 - **Description:** This dataset contains 35 records with different characteristics of Bengal tigers. It can be used for training predictive models.
 - **Columns:**
@@ -21,7 +22,8 @@ This repository contains two datasets related to Bengal Tigers: one for training
   - `Prey_Success_Rate`: Success rate of hunting (range from 0.3 to 0.9)
   - `Survival_Chance`: Target variable indicating the likelihood of survival (High, Medium, Low)
 
-### 2. `BT_testing.csv` (Testing Data)
+### 2. `BT_testing_dataset.csv` (Testing Data)
+Download: https://drive.google.com/file/d/1noVZcPB03CFAnmMb0UZ1G9r_1qqknkT4/view?usp=drive_link
 - **Records:** 10
 - **Description:** This dataset contains 10 new records and can be used for evaluating model performance. It does not include any records from the training dataset.
 - **Columns:**
